@@ -1,4 +1,4 @@
-# Lucas Veteikis Data Science Portfolio
+# Lucas Veteikis Data Projects Portfolio
 
 This repository contains different data-related projects I've worked on, including assignments from university (Master in Management + Analytics, UTDT) and personal ones.
 
