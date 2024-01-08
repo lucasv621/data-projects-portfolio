@@ -25,11 +25,24 @@ This university assignment involved conducting a quasi-experiment using the "Dif
 - **Executing linear regressions** using the difference-in-differences technique and interpreting the outcomes
 - **Producing a concise report** summarizing the quasi-experiment, limited to a maximum of three pages.
 
-### Linear Programming in Resource Allocation
-
+### Linear Programming Approach for Resident Allocation in Medical Institutions
 Linear programming involves maximizing or minimizing a linear function while considering various constraints. This method is widely applicable in modeling real-life scenarios to find the most effective resource allocation strategies. In this specific project, the aim was to allocate students to medical placements, considering preferences from both students and institutions, with the goal of maximizing overall satisfaction.
 The project tasks included:
 - **Problem Modeling:** We defined the problem by proposing an objective function to maximize and setting up different constraints.
 - **Assessing Model Efficiency:** We evaluated the effectiveness of the linear model by using key performance indicators (KPIs) we developed.
 - **Optimizing with CPLEX API:** Utilizing the CPLEX API in Python, we optimized the proposed model to achieve the desired allocation.
 
+### Machine Learning Applied To Sales Prediction
+Sales prediction is a widely adopted machine learning task across industries. In this project, participants engaged in a Kaggle competition aimed at developing machine learning models capable of forecasting daily sales for various stores of a renowned supermarket chain in Germany. The project process encompassed:
+- **Data Processing:** The data arrived in a messy format, requiring substantial preprocessing efforts.
+- **Exploratory Data Analysis (EDA):** A comprehensive EDA was conducted, focusing on ideas for feature engineering, handling missing values, and other necessary tasks.
+- **Feature Engineering:** Crafting and selecting the most impactful features was crutial for optimizing model performance.
+- **Machine Learning Model Implementation:** Implementing and fine-tuning XGBoosts and Random Forests using Python's Scikit-Learn package for predictive modeling.
+
+### NYC Taxi Fare Prediction
+This project focused on a machine learning competition which aim was to predict the price of different taxi rides in New York, challenging participants to create models predicting taxi fares accurately. The process involved:
+
+- **EDA:** The primary focus was on discarding invalid values and identifying patterns crucial for generating new variables.
+- **Managing Large Datasets:** Dealing with an original dataset comprising over 55 million observations was a significant challenge, requiring adept handling of vast amounts of information.
+- **Feature Engineering:** With a limited number of features initially available, the key task involved crafting and optimizing features to enhance the models' predictive capabilities.
+- **Machine Learning Model Implementation:** Leveraging XGBoost within the Scikit-Learn package, the project involved fine-tuning its hyperparameters and employing ensemble methods using various XGBoost algorithms to attain the highest achievable score.
