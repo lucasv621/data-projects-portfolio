@@ -14,7 +14,7 @@ The goal of this project was to apply Conjoint Analysis, a market research techn
 ### Contact Prediction Challenge
 This project was part of a Kaggle Competition where our team ranked in the top 30%. The competition aimed to predict whether a post on an accommodation marketplace would receive more than 3 contacts within the initial 15 days. We dealt with a dataset containing millions of observations and numerous features. The prediction process involved:
 - **EDA**: Analyzing the data to extract valuable insights and eliminate irrelevant information
-- **Feature engineering**:Crafting new features to improve our predictive abilities
+- **Feature engineering**: Crafting new features to improve our predictive abilities
 - Utilizing **sparse matrices**
 - **Implementing various machine learning models** like Naive Bayes, Decision Trees, and ultimately XgBoost to achieve optimal performance in the competition.
 
