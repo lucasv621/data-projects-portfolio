@@ -1,6 +1,6 @@
 # Lucas Veteikis Data Projects Portfolio
 
-This repository contains different data-related projects I've worked on, including assignments from university (Master in Management + Analytics, UTDT) and personal ones.
+This repository contains different data-related projects I've worked on, including assignments from the master degree I'm pursuing ([Master in Management + Analytics, UTDT](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25098#programas)) and personal ones.
 
 ## Brief Project Summaries
 
