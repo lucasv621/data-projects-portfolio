@@ -13,8 +13,23 @@ The goal of this project was to apply Conjoint Analysis, a market research techn
 
 ### Contact Prediction Challenge
 This project was part of a Kaggle Competition where our team ranked in the top 30%. The competition aimed to predict whether a post on an accommodation marketplace would receive more than 3 contacts within the initial 15 days. We dealt with a dataset containing millions of observations and numerous features. The prediction process involved:
-
 - Analyzing the data to extract valuable insights and eliminate irrelevant information
 - Crafting new features to improve our predictive abilities
 - Utilizing sparse matrices
 - Implementing various models like Naive Bayes, Decision Trees, and ultimately XgBoost to achieve optimal performance in the competition.
+
+### Difference in Differences Analysis in Sports
+This university assignment involved conducting a quasi-experiment using the "Difference in Differences" method, a quasi-experimental approach comparing outcome changes over time between a treatment group and a control group. Specifically, this technique was utilized to evaluate the performance of Pep Guardiola, a Spanish football coach, in the Premier League. The assignment included:
+- Conducting research to **identify the suitable application of the technique** and gathering data through web scraping
+- **Selecting a control group**, a task requiring the demonstration of parallel trends with the treatment group
+- **Executing linear regressions** using the difference-in-differences technique and interpreting the outcomes
+- **Producing a concise report** summarizing the quasi-experiment, limited to a maximum of three pages.
+
+### Linear Programming in Resource Allocation
+
+Linear programming involves maximizing or minimizing a linear function while considering various constraints. This method is widely applicable in modeling real-life scenarios to find the most effective resource allocation strategies. In this specific project, the aim was to allocate students to medical placements, considering preferences from both students and institutions, with the goal of maximizing overall satisfaction.
+The project tasks included:
+- **Problem Modeling:** We defined the problem by proposing an objective function to maximize and setting up different constraints.
+- **Assessing Model Efficiency:** We evaluated the effectiveness of the linear model by using key performance indicators (KPIs) we developed.
+- **Optimizing with CPLEX API:** Utilizing the CPLEX API in Python, we optimized the proposed model to achieve the desired allocation.
+
